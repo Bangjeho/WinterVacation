@@ -1,0 +1,10 @@
+how to 100mb more than file upload to github
+
+git lfs track 'filename.?'
+
+git add .
+git commit -m 'commit message'
+git push origin master
+
+cansle commit 
+git reset --soft HEAD^
